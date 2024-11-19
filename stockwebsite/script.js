@@ -1,0 +1,1 @@
+console.log('Stock Management Website Loaded');
